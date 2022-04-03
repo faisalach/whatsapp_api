@@ -1,0 +1,8 @@
+- npm init
+- npm i whatsapp-web.js
+- npm install -g nodemon
+- npm i qrcode
+- npm i http
+- npm i express
+- npm i socket.io
+- npm i express-validator
